@@ -1,10 +1,6 @@
 @import url(fontawesome-all.min.css);
 
-/*
-	Hyperspace by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -59,6 +55,7 @@ mark {
 	color: inherit;
 }
 
+
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
@@ -70,6 +67,13 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+
+#home-botton{
+	background-color:#020103;
+	background: 200%;
+	border-radius: 30%;
+}
+
 
 /* Basic */
 
@@ -2552,11 +2556,11 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #4eb760;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #3d954c;
 				}
 
 /* Image */
@@ -3256,11 +3260,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #0b5e19;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #063d18;
 		}
 
 		.wrapper.fullscreen {
